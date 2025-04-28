@@ -110,6 +110,7 @@ button:hover{
         grid-template-columns: 1fr 1fr;
        max-width: 50rem;
        line-height: 1;
+       margin-top: 10vh;
        
         
     }
