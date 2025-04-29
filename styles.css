@@ -89,6 +89,10 @@ p{
 }
 
 button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
     background-color: var(--Green-500);
     color: var(--White);      
     font-weight: 600;

@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-using-flexbox-and-grid-yfISQdSh3Y
 - Live Site URL: https://bigboyemma20.github.io/product-preview-card-component-main/
 
 ## My process
